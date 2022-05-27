@@ -1,7 +1,7 @@
 # eTutor
+eTutor is an Tutor finding app made with xcode and firebase database where students can find available teachers in their location and contact them.
 
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFWTQ0vG6DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+# Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/vFWTQ0vG6DM/0.jpg)](https://www.youtube.com/watch?v=vFWTQ0vG6DM)
 
